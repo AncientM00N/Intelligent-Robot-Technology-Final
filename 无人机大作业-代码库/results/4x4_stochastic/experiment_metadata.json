@@ -1,0 +1,11 @@
+{
+  "map_size": "4x4",
+  "mode": "stochastic",
+  "timestamp": "2026-01-15T13:58:16.520155",
+  "algorithms": [
+    "Q-Learning",
+    "SARSA",
+    "DQN",
+    "DDQN"
+  ]
+}
